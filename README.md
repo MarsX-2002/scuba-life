@@ -5,10 +5,10 @@ This is a website for Scuba Life Pro, a company that provides scuba diving cours
 ##Technologies Used
 The website is built using the following technologies:
 
-*HTML
-*CSS
-*JavaScript
-*Bootstrap
+-HTML
+-CSS
+-JavaScript
+-Bootstrap
 
 
 ##Features
